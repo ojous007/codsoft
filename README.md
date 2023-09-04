@@ -1,1 +1,2 @@
 # codsoft
+This GitHub repository compiles the tasks and projects completed during my enriching internship experience at Codsoft. It serves as a portfolio of the valuable work undertaken during this period, showcasing my contributions, skills, and growth throughout the internship. Explore the code and projects to gain insights into the practical experiences and accomplishments achieved during this professional journey.
